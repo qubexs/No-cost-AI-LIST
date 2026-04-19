@@ -7,3 +7,9 @@ https://github.com/amardeeplakshkar/awesome-free-llm-apis
 https://github.com/KashifKhn/gemini-proxy
 https://github.com/sixfingerdev/sixfinger-api
 https://github.com/crazyrob425/BlacklistedAIProxy
+https://github.com/LLM-Red-Team/minimax-free-api
+https://github.com/wdhdev/free-for-life
+https://github.com/zukixa/cool-ai-stuff
+https://github.com/for-the-zero/Free-LLM-Collection
+https://github.com/ShaikhWarsi/free-ai-tools
+https://github.com/jwadow/kiro-gateway
