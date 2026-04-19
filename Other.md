@@ -4,3 +4,6 @@ https://github.com/cu-sanjay/ai-fiesta-unlimited
 https://github.com/Takawell/Aichixia
 https://github.com/1dev-hridoy/Clave-App
 https://github.com/amardeeplakshkar/awesome-free-llm-apis
+https://github.com/KashifKhn/gemini-proxy
+https://github.com/sixfingerdev/sixfinger-api
+https://github.com/crazyrob425/BlacklistedAIProxy
