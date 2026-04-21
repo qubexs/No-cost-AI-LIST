@@ -13,3 +13,4 @@ https://github.com/zukixa/cool-ai-stuff
 https://github.com/for-the-zero/Free-LLM-Collection
 https://github.com/ShaikhWarsi/free-ai-tools
 https://github.com/jwadow/kiro-gateway
+https://github.com/ShaikhWarsi/free-ai-tools
